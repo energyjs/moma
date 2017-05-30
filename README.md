@@ -36,7 +36,7 @@ This notebook is used to explore the dataset data/artists.csv
 This notebook is used to explore the dataset data/artworks.csv
 
 #### data_prep.ipynb
-This notebook reads in the datasets /data/names and /data/lastnames.json and transforms them such that they can be joined with the artist dataset provided by MoMA. The artist dataset is then merged with the artworks dataset in order to get race, gender and nationality data associated to each artwork collected by the MoMA. The outputof this notebook is a csv - ** /data/merged.csv **
+This notebook reads in the datasets /data/names and /data/lastnames.json and transforms them such that they can be joined with the artist dataset provided by MoMA. The artist dataset is then merged with the artworks dataset in order to get race, gender and nationality data associated to each artwork collected by the MoMA. The outputof this notebook is a csv - /data/merged.csv
 
 #### analysis.ipynb
 This notebook examines the MoMA's collection through the years by race, gender and nationality. Three time-series plots are shown in this notebook showing changes the MoMA's collection by these three aspects.
