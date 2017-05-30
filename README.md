@@ -1,5 +1,5 @@
-# moma
-Understanding the MoMA's artwork acquisitions by race, gender and nationality.
+# Understanding the MoMA's collection by race, gender and nationality.
+This project uses the MoMA's public dataset to develop an understanding of the MoMA's artwork acquisitions by race, gender and nationality.
 
 ## Overview
 This project is focused around the MoMA's public dataset of artworks and artists. Using this dataset, I will do time-series analysis on the MoMA's collecting patterns by race, gender and nationality. The analysis will give us a view on the MoMA's diversity when collecting artworks.
