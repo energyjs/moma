@@ -1,6 +1,8 @@
 # An Analysis of the MoMA's Collection by Race and Gender
 This project uses the MoMA's public dataset to develop an understanding of the MoMA's artwork acquisitions by race and gender.
 
+To jump straight into the analysis, checkout the notebook: [/code/analysis.ipynb](/code/analysis.ipynb)
+
 ## Overview
 In this project, we will try to understand the MoMA's collection from the standpoint of demographic and geographic diversity, and identify any trends in the MoMA's collecting tendencies with regards to race and gender.
 
@@ -8,13 +10,16 @@ In this project, we will try to understand the MoMA's collection from the standp
 
 In this project, the primary data set is data that is published by the Museum of Modern Art themselves. Because their data is relatively small, I copied `Artworks.csv` from their repo into `/data`. The MoMA consistently updates their dataset - this analysis was done on their Artworks data collected on 2/15/2018. 
 
-**The Museum of Modern Art (MoMA) Collection** :
+**The Museum of Modern Art (MoMA) Collection**
+
 URL: https://github.com/MuseumofModernArt/collection/blob/master/Artworks.csv
 
-**lastnames.json**:
+**lastnames.json**
+
 API: https://api.census.gov/data/2010/surname.html
 
-**Race distribution in the US** (this dataset is hardcoded directly into the notebook `code/analysis.ipynb`)
+**Race distribution in the US** (this dataset is hardcoded directly into the notebook `/code/analysis.ipynb`)
+
 URL: https://www.kff.org/other/state-indicator/distribution-by-raceethnicity 
 
 ### Limitations of the Data
